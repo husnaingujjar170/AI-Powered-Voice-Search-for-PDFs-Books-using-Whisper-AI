@@ -1,3 +1,5 @@
+import os
+os.system("pip install torch==2.0.1 torchaudio ffmpeg")
 import streamlit as st
 import whisper
 import fitz  
