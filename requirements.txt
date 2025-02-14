@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+pymupdf
+sentence-transformers
+numpy
+torch
+torchaudio
+ffmpeg
