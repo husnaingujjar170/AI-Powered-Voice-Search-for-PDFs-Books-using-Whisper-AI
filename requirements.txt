@@ -3,6 +3,6 @@ openai-whisper
 pymupdf
 sentence-transformers
 numpy
-torch
+torch==2.0.1
 torchaudio
 ffmpeg
