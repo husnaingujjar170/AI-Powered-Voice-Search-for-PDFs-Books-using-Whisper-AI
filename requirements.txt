@@ -1,8 +1,8 @@
-streamlit
+torch==2.0.1
+torchaudio
+ffmpeg
 openai-whisper
 pymupdf
 sentence-transformers
 numpy
-torch==2.0.1
-torchaudio
-ffmpeg
+streamlit
